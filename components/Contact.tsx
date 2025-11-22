@@ -60,7 +60,7 @@ const Contact: React.FC = () => {
                 <div className="max-w-lg mx-auto text-center">
                     <p className="text-lg mb-8">I'm currently available for freelance work and open to discussing new projects. Feel free to reach out!</p>
                     <a
-                        href="YOUR_RESUME_DRIVE_LINK_HERE"
+                        href="https://drive.google.com/drive/u/0/folders/1SkIVV16UJNEnBWF7zySqaHns4gpDxrlo"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-block bg-light-accent dark:bg-dark-accent text-white font-bold py-3 px-8 rounded-full text-lg hover:opacity-90 transition-opacity duration-300 transform hover:scale-105"
